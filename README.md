@@ -66,5 +66,5 @@ The model uses the **leapGestRecog** dataset, which consists of grayscale images
 
 - Dataset provided by: [GTI-UPM Leap Gesture Dataset](https://www.kaggle.com/gti-upm/leapgestrecog)
 
----
+--
 
